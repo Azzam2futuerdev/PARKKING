@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92444086876",
+    "project_id": "parkking-ac6fa",
+    "storage_bucket": "parkking-ac6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92444086876:android:d607c2bd7f13277e8b8c99",
+        "android_client_info": {
+          "package_name": "com.example.PARKKING"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92444086876-ofkfptfhmnpc38vhqiijqde9cf4qkasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yl77D2Wkay-ZI35ukOAEnvJfhMR-06k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92444086876-ofkfptfhmnpc38vhqiijqde9cf4qkasb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
